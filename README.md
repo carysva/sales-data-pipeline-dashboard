@@ -36,9 +36,5 @@ Executive view designed for non-technical stakeholders:
 ## Tech Stack
 Python, PostgreSQL, Flask, Dash, SQL, Git/GitHub, VS Code, task scheduling, APIs, and Spark (as referenced in the narrative).
 
-## Portfolio Artifacts (recommended to include)
-- `Untitled document (3).docx` (portfolio summary narrative)
 
-## Next Step (so this repo can be fully public)
-To complete the public repo package, I need the corresponding GitHub repository URL that contains the pipeline code, runbooks, and/or presentation slides.
 
