@@ -1,5 +1,6 @@
 # Sales Data Pipeline & Live Monitoring Dashboard
 
+## About
 An end-to-end data engineering capstone that delivers fresh analytics via an automated ingestion pipeline, a production-ready database, an API layer, and a live KPI dashboard.
 
 ## Business Objective
